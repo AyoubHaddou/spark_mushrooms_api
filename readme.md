@@ -4,9 +4,7 @@ Dans ce brief vous allez découvrir la syntaxe de la librairie pyspark en classi
 
  Vous pourrez trouver plus d'informations à propos du dataset dans les ressources.
 
-​
-
-# Vous réaliserez au minimum deux modèles. (choix libre)
+* Vous réaliserez au minimum deux modèles. (choix libre)
 
 
 
