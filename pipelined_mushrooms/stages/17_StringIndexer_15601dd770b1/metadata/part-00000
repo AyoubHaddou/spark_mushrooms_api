@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1675430377683,"sparkVersion":"3.2.1","uid":"StringIndexer_15601dd770b1","paramMap":{"outputCol":"veil_color_index","inputCol":"veil_color"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_15601dd770b1__output","handleInvalid":"error"}}

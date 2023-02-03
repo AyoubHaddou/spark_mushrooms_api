@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1675430376164,"sparkVersion":"3.2.1","uid":"StringIndexer_837a7e35f34a","paramMap":{"outputCol":"gill_spacing_index","inputCol":"gill_spacing"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_837a7e35f34a__output","handleInvalid":"error"}}

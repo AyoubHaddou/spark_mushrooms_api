@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1675430377217,"sparkVersion":"3.2.1","uid":"StringIndexer_788f2277bf55","paramMap":{"outputCol":"stalk_color_above_ring_index","inputCol":"stalk_color_above_ring"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_788f2277bf55__output","handleInvalid":"error"}}
